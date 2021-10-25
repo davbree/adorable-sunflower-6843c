@@ -3,7 +3,6 @@ import { registerComponents } from '@stackbit/components';
 import { componentsMap } from '@stackbit/components/dist/components-map';
 import componet from '@stackbit/components/dist/components/Action';
 
-
 registerComponents({
     // Register all Stackbit components
     ...componentsMap
