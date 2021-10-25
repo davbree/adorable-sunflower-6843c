@@ -2,7 +2,7 @@ import dynamic from 'next/dynamic';
 import { registerComponents } from '@stackbit/components';
 import { componentsMap } from '@stackbit/components/dist/components-map';
 import Ac from '@stackbit/components/dist/components/Action';
-
+import { Action } from '@stackbit/components/dist/components';
 component
 
 registerComponents({
